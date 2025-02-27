@@ -1,1 +1,1 @@
-A minigame designed solo in BITSY.
+A minigame designed solo in BITSY for course Game Design I
